@@ -1,0 +1,176 @@
+{
+  "name": "RA: Fraxtal Assets List",
+  "logoURI": "",
+  "timestamp": "2022-01-27T14:33:26.183301",
+  "tokens": [
+    [
+      {
+        "name": "Staked Frax Ether",
+        "address": "0xFC00000000000000000000000000000000000005",
+        "symbol": "sfrxETH",
+        "decimals": 18
+      },
+      {
+        "name": "Wrapped Frax Ether",
+        "address": "0xFC00000000000000000000000000000000000006",
+        "symbol": "wfrxETH",
+        "decimals": 18
+      },
+      {
+        "name": "Frax Share",
+        "address": "0xFc00000000000000000000000000000000000002",
+        "symbol": "FXS",
+        "decimals": 18
+      },
+      {
+        "name": "Frax",
+        "address": "0xFc00000000000000000000000000000000000001",
+        "symbol": "FRAX",
+        "decimals": 18
+      },
+      {
+        "name": "Axelar Wrapped USDC",
+        "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+        "symbol": "axlUSDC",
+        "decimals": 6
+      },
+      {
+        "name": "USD Coin",
+        "address": "0xDcc0F2D8F90FDe85b10aC1c8Ab57dc0AE946A543",
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      {
+        "name": "Tether USD",
+        "address": "0x4d15ea9c2573addaed814e48c148b5262694646a",
+        "symbol": "USDT",
+        "decimals": 6
+      },
+      {
+        "address": "0xCC15F0F1e81E4A90CC2fAA918842E19F2ea2EE03",
+        "decimals": 18,
+        "name": "Krypto Fraxtal Chicken",
+        "symbol": "KFC"
+      },
+      {
+        "name": "Curve.Fi USD Stablecoin",
+        "address": "0xB102f7Efa0d5dE071A8D37B3548e1C7CB148Caf3",
+        "symbol": "crvUSD",
+        "decimals": 18
+      },
+      {
+        "name": "Staked FRAX",
+        "address": "0xfc00000000000000000000000000000000000008",
+        "symbol": "sFRAX",
+        "decimals": 18
+      },
+      {
+        "name": "Frax Bitcoin",
+        "address": "0xfC00000000000000000000000000000000000007",
+        "symbol": "frxBTC",
+        "decimals": 18
+      },
+      {
+        "name": "Frax Price Index",
+        "address": "0xFc00000000000000000000000000000000000003",
+        "symbol": "FPI",
+        "decimals": 18
+      },
+      {
+        "name": "FPI Share",
+        "address": "0xfc00000000000000000000000000000000000004",
+        "symbol": "FPIS",
+        "decimals": 18
+      },
+      {
+        "name": "Frax Doge",
+        "address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
+        "symbol": "FXD",
+        "decimals": 18
+      },
+      {
+        "name": "Real World Abs",
+        "address": "0xc84c0f36e42D0100c6FF5e1D04e2978f0A5B63Cf",
+        "decimals": 18,
+        "symbol": "RWA"
+      },
+      {
+        "name": "SuperAlgorithmicMoney",
+        "address": "0x4BfBA51AE91420302FB49680DA38CA068E0ee6eA",
+        "decimals": 18,
+        "symbol": "SAM"
+      },
+      {
+        "name": "Eve The Cat",
+        "address": "0xdd69B76de728257a1506FA986aB80F324005DD85",
+        "decimals": 9,
+        "symbol": "EVE"
+      },
+      {
+        "name": "CR100",
+        "address": "0x706432518887236Cb34Cb476C28fb20C68578304",
+        "decimals": 18,
+        "symbol": "CR100"
+      },
+      {
+        "name": "Axelar Wrapped frxETH",
+        "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+        "decimals": 18,
+        "symbol": "axlfrxETH"
+      },
+      {
+        "name": "flox.lol",
+        "address": "0xf330cF089966bc941E1ec7B5C53968339Cee5d74",
+        "decimals": 18,
+        "symbol": "flox.lol"
+      },
+      {
+        "address": "0xfb1520DbDc9230ef5dD5e6fd3Bbb6647B570E190",
+        "decimals": 6,
+        "name": "PayPal USD",
+        "symbol": "PYUSD"
+      },
+      {
+        "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "decimals": 18,
+        "name": "USDe",
+        "symbol": "USDe"
+      },
+      {
+        "address": "0x43a44f4F838eE4D83FfA541791A2C06D62D5ad5c",
+        "decimals": 18,
+        "name": "USDS",
+        "symbol": "USDS"
+      },
+      {
+        "address": "0x7F3a9Afc827AeEdb0c5dC1A66C0Baa41cD7289F0",
+        "decimals": 8,
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC"
+      },
+      {
+        "address": "0x8E2F0Dc8ceFEFcbfE122cE52f9Df7F4cC1BDA9a2",
+        "decimals": 18,
+        "name": "frxBULLAS",
+        "symbol": "$frxBULLAS"
+      },
+      {
+        "address": "0x9E93F74cD6BeB5dE326E7e1D4D6165Eac771Cf79",
+        "decimals": 18,
+        "name": "USDT",
+        "symbol": "USDT"
+      },
+      {
+        "address": "0x836aa28166BB9dC7511B5afb45Bca403855084ef",
+        "decimals": 18,
+        "name": "TRIN",
+        "symbol": "TRIN"
+      }
+    ] 
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

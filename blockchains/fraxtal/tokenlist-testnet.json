@@ -140,7 +140,8 @@
         "address": "0x43a44f4F838eE4D83FfA541791A2C06D62D5ad5c",
         "decimals": 18,
         "name": "USDS",
-        "symbol": "USDS"
+        "symbol": "USDS",
+        "logoURI": "https://ramp.stably.io/images/assetIcons/usds.svg"
       },
       {
         "address": "0x7F3a9Afc827AeEdb0c5dC1A66C0Baa41cD7289F0",
@@ -158,13 +159,15 @@
         "address": "0x9E93F74cD6BeB5dE326E7e1D4D6165Eac771Cf79",
         "decimals": 18,
         "name": "USDT",
-        "symbol": "USDT"
+        "symbol": "USDT",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
       },
       {
         "address": "0x836aa28166BB9dC7511B5afb45Bca403855084ef",
         "decimals": 18,
         "name": "TRIN",
-        "symbol": "TRIN"
+        "symbol": "TRIN",
+        "logoURI": "https://cryptologos.cc/logos/trinity-network-credit-tnc-logo.png?v=032"
       }
     ] 
   ],

@@ -54,6 +54,34 @@
       "name": "TRIN",
       "symbol": "TRIN",
       "logoURI": "https://cryptologos.cc/logos/trinity-network-credit-tnc-logo.png?v=032"
+    },
+    {
+      "chainId": 2522,
+      "name": "Staked Frax Ether",
+      "address": "0xFC00000000000000000000000000000000000005",
+      "symbol": "sfrxETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 2522,
+      "name": "Wrapped Frax Ether",
+      "address": "0xFC00000000000000000000000000000000000006",
+      "symbol": "wfrxETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 2522,
+      "name": "Frax Share",
+      "address": "0xFc00000000000000000000000000000000000002",
+      "symbol": "FXS",
+      "decimals": 18
+    },
+    {
+      "chainId": 2522,
+      "name": "Frax",
+      "address": "0xFc00000000000000000000000000000000000001",
+      "symbol": "FRAX",
+      "decimals": 18
     }
   ],
   "version": {

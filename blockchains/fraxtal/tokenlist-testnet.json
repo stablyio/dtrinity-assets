@@ -82,6 +82,13 @@
       "address": "0xFc00000000000000000000000000000000000001",
       "symbol": "FRAX",
       "decimals": 18
+    },
+    {
+      "chainId": 2522,
+      "name": "Wrapped Frax Ether",
+      "address": "0xA3FC7769eDFE1a9ac77A78214c558EBb89f63d37",
+      "symbol": "wfrxETH",
+      "decimals": 18
     }
   ],
   "version": {

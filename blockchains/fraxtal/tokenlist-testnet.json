@@ -16,7 +16,8 @@
       "name": "Wrapped Frax Ether",
       "address": "0xFC00000000000000000000000000000000000006",
       "symbol": "wfrxETH",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/wfrxeth.png"
     },
     {
       "chainId": 2522,

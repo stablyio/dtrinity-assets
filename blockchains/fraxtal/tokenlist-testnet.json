@@ -6,9 +6,10 @@
     {
       "chainId": 2522,
       "name": "Staked Frax Ether",
-      "address": "0xFC00000000000000000000000000000000000005",
+      "address": "0x93Bb4a786179bA2408A78240F354645A973EF0Bc",
       "symbol": "sfrxETH",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/sfrxeth.png"
     },
     {
       "chainId": 2522,
@@ -22,22 +23,24 @@
       "name": "Frax Share",
       "address": "0xFc00000000000000000000000000000000000002",
       "symbol": "FXS",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/fxs.png"
     },
     {
       "chainId": 2522,
       "name": "Frax",
       "address": "0xFc00000000000000000000000000000000000001",
       "symbol": "FRAX",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/fraxtal.png"
     },
     {
       "chainId": 2522,
-      "address": "0x43a44f4F838eE4D83FfA541791A2C06D62D5ad5c",
+      "address": "0x70924f77509dC1EB9384077B12Ca049AA2168d6f",
       "decimals": 18,
-      "name": "USDS",
-      "symbol": "USDS",
-      "logoURI": "https://ramp.stably.io/images/assetIcons/usds.svg"
+      "name": "DUSD",
+      "symbol": "DUSD",
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/dusd.png"
     },
     {
       "chainId": 2522,
@@ -54,41 +57,6 @@
       "name": "TRIN",
       "symbol": "TRIN",
       "logoURI": "https://cryptologos.cc/logos/trinity-network-credit-tnc-logo.png?v=032"
-    },
-    {
-      "chainId": 2522,
-      "name": "Staked Frax Ether",
-      "address": "0xFC00000000000000000000000000000000000005",
-      "symbol": "sfrxETH",
-      "decimals": 18
-    },
-    {
-      "chainId": 2522,
-      "name": "Wrapped Frax Ether",
-      "address": "0xFC00000000000000000000000000000000000006",
-      "symbol": "wfrxETH",
-      "decimals": 18
-    },
-    {
-      "chainId": 2522,
-      "name": "Frax Share",
-      "address": "0xFc00000000000000000000000000000000000002",
-      "symbol": "FXS",
-      "decimals": 18
-    },
-    {
-      "chainId": 2522,
-      "name": "Frax",
-      "address": "0xFc00000000000000000000000000000000000001",
-      "symbol": "FRAX",
-      "decimals": 18
-    },
-    {
-      "chainId": 2522,
-      "name": "Wrapped Frax Ether",
-      "address": "0xA3FC7769eDFE1a9ac77A78214c558EBb89f63d37",
-      "symbol": "wfrxETH",
-      "decimals": 18
     }
   ],
   "version": {

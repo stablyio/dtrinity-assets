@@ -14,7 +14,7 @@
     {
       "chainId": 2522,
       "name": "Wrapped Frax Ether",
-      "address": "0xFC00000000000000000000000000000000000006",
+      "address": "0xfc00000000000000000000000000000000000006",
       "symbol": "wfrxETH",
       "decimals": 18,
       "logoURI": "https://files.stably.io/dtrinity-asset-logos/wfrxeth.png"
@@ -22,7 +22,7 @@
     {
       "chainId": 2522,
       "name": "Frax Share",
-      "address": "0xFc00000000000000000000000000000000000002",
+      "address": "0xfc00000000000000000000000000000000000002",
       "symbol": "FXS",
       "decimals": 18,
       "logoURI": "https://files.stably.io/dtrinity-asset-logos/fxs.png"
@@ -30,7 +30,7 @@
     {
       "chainId": 2522,
       "name": "Frax",
-      "address": "0xFc00000000000000000000000000000000000001",
+      "address": "0xfc00000000000000000000000000000000000001",
       "symbol": "FRAX",
       "decimals": 18,
       "logoURI": "https://files.stably.io/dtrinity-asset-logos/fraxtal.png"

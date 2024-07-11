@@ -8,31 +8,36 @@
         "name": "Staked Frax Ether",
         "address": "0xFC00000000000000000000000000000000000005",
         "symbol": "sfrxETH",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://files.stably.io/dtrinity-asset-logos/sfrxeth.png"
       },
       {
         "name": "Wrapped Frax Ether",
         "address": "0xFC00000000000000000000000000000000000006",
         "symbol": "wfrxETH",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://files.stably.io/dtrinity-asset-logos/wfrxeth.png"
       },
       {
         "name": "Frax Share",
         "address": "0xFc00000000000000000000000000000000000002",
         "symbol": "FXS",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://files.stably.io/dtrinity-asset-logos/fxs.png"
       },
       {
         "name": "Frax",
         "address": "0xFc00000000000000000000000000000000000001",
         "symbol": "FRAX",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://files.stably.io/dtrinity-asset-logos/fraxtal.png"
       },
       {
         "name": "dTRINITY USD",
         "address": "0x4D6E79013212F10A026A1FB0b926C9Fd0432b96c",
         "symbol": "dUSD",
-        "decimals": 6
+        "decimals": 6,
+        "logoURI": "https://files.stably.io/dtrinity-asset-logos/dusd.png"
       },
       {
         "name": "Frax Share",

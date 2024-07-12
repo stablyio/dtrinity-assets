@@ -49,7 +49,7 @@
       "address": "0x98182ec55Be5091d653F9Df016fb1070add7a16E",
       "symbol": "FXS",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png"
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/fxs.png"
     },
     {
       "chainId": 2522,
@@ -57,7 +57,7 @@
       "address": "0x0Dbf64462FEC588df32FC5C9941421F7d93e0Fb3",
       "symbol": "sFRAX",
       "decimals": 18,
-      "logoURI": "https://app.frax.finance/static/sFRAX_coin_blackwhite-e11eb3fb.svg"
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/sfrax.png"
     },
     {
       "chainId": 2522,
@@ -73,7 +73,7 @@
       "address": "0x2CAb811d351B4eF492D8C197E09939F1C9f54330",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6952.png"
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/frax.png"
     },
     {
       "chainId": 2522,
@@ -81,7 +81,7 @@
       "address": "0x78C4fa90703C8D905b83416Cda5b2F77A8C386C5",
       "symbol": "USDe",
       "decimals": 6,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29470.png"
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/usde.png"
     },
     {
       "chainId": 2522,
@@ -89,7 +89,7 @@
       "address": "0x828a7248daD914435F452D73363491Ab7ec4D8f4",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/dai.png"
     },
     {
       "chainId": 2522,
@@ -97,14 +97,15 @@
       "address": "0x99Df29568C899D0854017de5D265aAF42Cb123fA",
       "symbol": "sUSDe",
       "decimals": 6,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29471.png"
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/susde.png"
     },
     {
       "chainId": 2522,
       "name": "Staked Dai",
       "address": "0x4CB47b0FD8f8EfF846889D3BEaD1c33bc93C7FD6",
       "symbol": "sDAI",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://files.stably.io/dtrinity-asset-logos/sdai.png"
     }
   ],
   "version": {

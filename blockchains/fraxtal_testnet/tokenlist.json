@@ -80,7 +80,7 @@
       "name": "Ethena USDe",
       "address": "0x78C4fa90703C8D905b83416Cda5b2F77A8C386C5",
       "symbol": "USDe",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://files.stably.io/dtrinity-asset-logos/usde.png"
     },
     {
@@ -96,7 +96,7 @@
       "name": "Staked USDe",
       "address": "0x99Df29568C899D0854017de5D265aAF42Cb123fA",
       "symbol": "sUSDe",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://files.stably.io/dtrinity-asset-logos/susde.png"
     },
     {
